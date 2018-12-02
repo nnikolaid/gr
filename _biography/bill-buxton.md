@@ -18,6 +18,8 @@ gallery:
     caption: "Bill Buxton with a Microwriter chord input device"
   - image_url: /images/bill-buxton-2.jpg
     caption: "Microsoft Research's Bill Buxton holding the GRiDPad 1910, an early tablet computer"
+    license_url: https://www.wired.co.uk/article/like-magic
+    license_text: Andrew B Myers
 ---
 
 {% include_relative bio-buxton.md %}
