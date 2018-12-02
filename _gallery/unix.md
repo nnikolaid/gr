@@ -6,4 +6,5 @@ caption: Το Unix έχει μεταφερθεί σε πολλές διαφορ�
 license_url: 'https://en.wikipedia.org/wiki/Unix#/media/File:Version_7_Unix_SIMH_PDP11_Emulation_DMR.png'
 categories:
   - operating system
+  - command-line interface
 ---
