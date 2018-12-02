@@ -2,7 +2,7 @@
 author: nnikolaid
 title: "Bill Buxton"
 image_url: /images/bill-buxton.jpg
-caption: "O Alan Kay οραματίστηκε το Dynabook και δημιούργησε λογισμικό που διευκολύνει τα παιδιά να μάθουν να σκέφτονται μαζί με τους υπολογιστές"
+caption: "Στα μέσα της δεκαετίας του '80, ο Bill Buxton έγραψε ένα άρθρο που βοήθησε να καθοριστεί μια νέα αρχή που ονομάζεται σχεδιασμός εμπειρίας - μια εστίαση όχι στα προϊόντα ή τις ίδιες τις συσκευές, αλλά στην επίδραση που έχουν στη ζωή των ανθρώπων."
 categories:
   - biography
   - definition
@@ -13,7 +13,7 @@ tags:
   - Xerox PARC
 gallery:
   - image_url: /images/human-computer-interaction.jpg
-    caption: "Το Dynabook είναι ένα σχεδιαστικό όραμα του 1968 για ένα φορητό υπολογιστή τύπου τάμπλετ από τον Alan Kay που απευθύνεται σε παιδιά και μπορεί να προγραμματιστεί με στόχο την προσωπική έκφραση και την επεξεργασία της πληροφορίας"
+    caption: "Ο Bill Buxton είναι γνωστός ως ένας από τους πρωτοπόρους στον τομέα αλληλεπίδρασης ανθρώπου-υπολογιστή."
   - image_url: /images/bill-buxton.jpg
     caption: "Bill Buxton with a Microwriter chord input device"
   - image_url: /images/bill-buxton-2.jpg
